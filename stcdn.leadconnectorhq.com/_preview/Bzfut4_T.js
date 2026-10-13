@@ -1,0 +1,1 @@
+import{a2 as o,ag as l,c as n,dg as r,N as u,Q as c,ah as a,aj as m,ai as d,R as g,aL as p}from"DElPdBin.js";const b=o({__name:"page",setup(i){const{locale:s}=l();n({htmlAttrs:{lang:s}});const e=r()?.backgroundSettingsClass;return(t,_)=>(u(),c(p,null,[a("div",{class:m(["bg-fixed",d(e)])},null,2),a("div",null,[g(t.$slots,"default")])],64))}});export{b as default};
